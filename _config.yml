@@ -7,9 +7,9 @@ linkedIn:
 
 
 collections: 
-design:
-output: true
-permalink: /:collection/:path/
+  design:
+    output: true
+    permalink: /:collection/:path/
 
 
 
