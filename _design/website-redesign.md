@@ -1,7 +1,7 @@
 ---
-title: "Poster Series"
+title: "Website Redesign"
 tools: [Photoshop, InDesign]
-description: "A typographic poster series exploring contrast, scale, and rhythm."
+description: "A redesign improving user experience, visual consistency, and functionality across all pages."
 layout: 
 permalink: 
 ---
