@@ -6,17 +6,17 @@ layout:
 permalink: 
 ---
 
-##Project Overview
+## Project Overview
 
 This project centered on developing a cohesive brand identity that reflects the brand’s values and vision. The process included creating a logo system, color palette, typography, and brand voice to ensure consistency and recognition.
 
-##Tools & Techniques
+## Tools & Techniques
 
-Adobe InDesign for layout
-Adobe Photoshop for texture and blending modes
-Color palette inspired by Bauhaus minimalism
+- Adobe InDesign for layout
+- Adobe Photoshop for texture and blending modes
+- Color palette inspired by Bauhaus minimalism
 
-##Outcomes
+## Outcomes
 
 The new brand identity established a stronger visual presence, enhanced brand recognition, and provided clear guidelines for future communications. It successfully unified the brand’s look and feel across all touchpoints.
  
